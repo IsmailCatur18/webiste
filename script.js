@@ -82,7 +82,7 @@ function sendToWhatsApp(event) {
   // =========================
   // NOMOR ADMIN (GANTI)
   // =========================
-  const adminNumber = "6281296410332"; // TANPA +
+  const adminNumber = "6285945547797"; // TANPA +
 
   // =========================
   // FORMAT PESAN

@@ -373,13 +373,13 @@ body {
 .program-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* desktop */
-  gap: 30px;
+  gap: 20px;
 }
 
 /* Card program */
 .program-card {
   background: white;
-  padding: 35px 25px;
+  padding: 15px 25px;
   border-radius: 18px;
   text-align: center;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
@@ -392,8 +392,8 @@ body {
 
 /* Icon program */
 .program-card img {
-  width: 70px;
-  margin-bottom: 20px;
+  width: 250px;
+  margin-bottom: 10px;
 }
 
 /* Judul */
