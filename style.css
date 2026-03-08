@@ -639,6 +639,7 @@ body {
   transition:
     transform 0.3s,
     opacity 0.3s;
+  color: #ffffff;
 }
 
 .footer-sosmed a:hover {
